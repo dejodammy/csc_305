@@ -1,0 +1,1 @@
+F:\DEJO\Documentos\csc_305\hello_world\target\debug\hello_world.exe: F:\DEJO\Documentos\csc_305\hello_world\src\greeting\french.rs F:\DEJO\Documentos\csc_305\hello_world\src\greeting\spanish.rs F:\DEJO\Documentos\csc_305\hello_world\src\greeting.rs F:\DEJO\Documentos\csc_305\hello_world\src\main.rs

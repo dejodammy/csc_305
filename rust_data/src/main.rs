@@ -18,12 +18,16 @@ fn scalar_examples (){
     }
 }
 
-
+fn compound_example(){
+    compound::array();
+    compound::tuple();
+    compound::slicer();
+}
 fn main() {
     println!("Hello, world!");
     user_defined::dejo(); 
-    compound::tuple();
     scalar_examples();
+    compound_example();
     
     
 }
