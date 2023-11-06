@@ -1,7 +1,6 @@
 //scalar types hold single values 
 pub(crate) fn boolean (){
     let hungry = true; //defining a boolean 
-    //this set of code checks if the person is hungry and then returns a string 
     if hungry != true{
         println!("i am hungry")
     }
