@@ -22,12 +22,16 @@ fn compound_example(){
     compound::array();
     compound::tuple();
     compound::slicer();
+    
+}
+
+fn user_defined_example(){
+    user_defined::structure();
+    user_defined::enumber();
+    user_defined::union();
 }
 fn main() {
-    println!("Hello, world!");
-    user_defined::dejo(); 
     scalar_examples();
     compound_example();
-    
-    
+    user_defined_example();
 }
